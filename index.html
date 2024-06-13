@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Média</title>
+    <link rel="shortcut icon" href="./images/logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Reddit+Mono:wght@200..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container" id="formAtividade">
+        <header>
+            <img src="./images/logo.png" alt="capilo e diploma" id="logo">
+            <h1>Calculadora de Média</h1>
+        </header>
+        <form>
+            <input type="text" required placeholder="Atividade" id="nome-atividade">
+            <input type="number" required placeholder="Nota" min="0" max="10" id="nota-atividade">
+            <button type="submit">Adicionar +</button>
+        </form>
+        <table cellspacing="0" >
+            <thead>
+                <tr><!--linha-->
+                    <th><!-- coluna-->Atividade</th>
+                    <th>Nota</th>
+                    <th>Aprovado(a) ?</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td><b>Média Final</b></td>
+                    <td id="mediaFinalValor">----</td>
+                    <td id="mediaFinalResultado">----</td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+
+    <script src="./scrip.js"></script>
+</body>
+</html>
