@@ -12,7 +12,7 @@ Uma aplicação web simples e intuitiva para calcular a média de notas de aluno
 ---
 
 
-## 🚀 Funcionalidades
+## ⚙️ Funcionalidades
 
 
 - **Cálculo de Média:** Insira as notas para obter a média automaticamente.
@@ -22,18 +22,18 @@ Uma aplicação web simples e intuitiva para calcular a média de notas de aluno
 
 ---
 
-## 📸 Demonstração - [Link para o Projeto Online](https://calculadora-media-seven.vercel.app/)
+## 🌐 Demonstração - [Link para o Projeto Online](https://calculadora-media-seven.vercel.app/)
 
 ![Preview da Calculadora de Média](./assets/calculadora_media_escolar_print.png)
 *A imagem acima mostra a interface da calculadora de média em funcionamento.*
 
 ---
 
-## 🧠 Aprendizados
+## 💡 Aprendizados
 
 Neste projeto, reforcei e apliquei os conceitos fundamentais de desenvolvimento web, com foco em:
 
-> Aprofundamento no **DOM Manipulation com JavaScript** para interações dinâmicas, prática de **estruturação semântica com HTML** e aplicação de **estilização com CSS** para uma interface amigável. Este projeto foi essencial para consolidar a base do desenvolvimento Front-end.
+Aprofundamento no **DOM Manipulation com JavaScript** para interações dinâmicas, prática de **estruturação semântica com HTML** e aplicação de **estilização com CSS** para uma interface amigável. Este projeto foi essencial para consolidar a base do desenvolvimento Front-end.
 
 ---
 
