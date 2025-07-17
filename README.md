@@ -22,8 +22,8 @@ Uma aplicação web simples e intuitiva para calcular a média de notas de aluno
 
 ---
 
-## 📸 Demonstração - [Link para o Deploy](https://calculadora-media-seven.vercel.app/)
-<a href="https://calculadora-media-seven.vercel.app/" target="_blank">Acesse o Projeto Online!</a>
+## 📸 Demonstração - [Link para o Projeto Online](https://calculadora-media-seven.vercel.app/)
+
 ![Preview da Calculadora de Média](./assets/calculadora_media_escolar_print.png)
 *A imagem acima mostra a interface da calculadora de média em funcionamento.*
 
