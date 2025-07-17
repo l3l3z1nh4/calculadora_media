@@ -6,7 +6,7 @@ Uma aplicação web simples e intuitiva para calcular a média de notas de aluno
 
 ## 🔍 Visão Geral
 
-- **Status**: ✔ Concluído
+- **Status**: Concluído
 - **Tecnologias**: HTML, CSS, JavaScript
 
 ---
